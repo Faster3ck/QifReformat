@@ -1,0 +1,7 @@
+Script python per modificare la data all'interno dei file QIF da yyyy-mm-dd a dd-mm-yyyy.
+Utilizzato per importare correttamente i file QIF da Skrooge (Linux) a Financisto (Android).
+
+Utilizzo:
+python qifreformat.py input.qif output.qif
+
+(c) 2012 Francesco Mondello GPL3
